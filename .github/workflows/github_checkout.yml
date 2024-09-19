@@ -1,4 +1,4 @@
-name: Hello World
+name: github_checkout
 
 on : [push]
 
